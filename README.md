@@ -1,0 +1,1 @@
+This code is used to create a Telegram Bot using the python-telegram-bot library. It retrieves the bot token from the environment variable BOT_TOKEN or defaults to the provided token if no environment variable is found. It then prints the bot's details and waits for user input before exiting.
